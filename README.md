@@ -31,7 +31,12 @@
 ](https://github.com/yaazzik/YPP/blob/main/%D0%92%D0%A1%D0%A0%203.2.pdf) (Группа: Глебов М.Д, Мозговой Н.А, Савостин Е.А)
 ### Тема 4
 #### Инвариантные самостоятельные работы
+4.1 [Реализация CI-пайплайна по развертыванию сайта-портфолио](https://app.circleci.com/pipelines/github/yaazzik/yaazzik.github.io/1/workflows/3c48045f-eb3d-49e9-9d14-9f8e06b2d093/jobs/1/steps)
+<br>
+4.2 [Автоматизация сборки веб-приложения на чистом CSS на примере сайта-портфолио](https://app.circleci.com/pipelines/github/yaazzik/yaazzik.github.io/1/workflows/3c48045f-eb3d-49e9-9d14-9f8e06b2d093/jobs/1/steps)
+<br>
 4.3 [Анализ современных CSS-фреймворков для создания веб-интерфейсов.](https://github.com/yaazzik/YPP/blob/main/%D0%98%D0%A1%D0%A0%204.3.pdf) (Группа: Глебов М.Д, Мозговой Н.А, Савостин Е.А)
 #### Вариантные самостоятельные работы
+4.2 [Реализация CI-пайплайна по развертыванию сайта-портфолио или другого сайта на выбор студента на платформе GitHub.](https://app.circleci.com/pipelines/github/yaazzik/yaazzik.github.io/1/workflows/3c48045f-eb3d-49e9-9d14-9f8e06b2d093/jobs/1/steps)
 
 # [Курсовая работа](https://github.com/yaazzik/YPP/blob/main/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%203%20%D0%BA%D1%83%D1%80%D1%81%20%D0%A3%D0%9F%D0%9F%20%D0%93%D0%BB%D0%B5%D0%B1%D0%BE%D0%B2%20%D0%9C.%D0%94..pdf)
